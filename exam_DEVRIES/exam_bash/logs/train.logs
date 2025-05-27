@@ -1,0 +1,566 @@
+=== Start of training () ===
+File with preprocessed sales data not found, training process aborted
+=== Start of training () ===
+File with preprocessed sales data found with 116 rows and 6 columns
+Trained model found: retraining the existing model with new data
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 118 rows and 6 columns
+Trained model found: retraining the existing model with new data
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 118 rows and 6 columns
+Trained model found: retraining the existing model with new data
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 124 rows and 6 columns
+Trained model found: retraining the existing model with new data
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 124 rows and 6 columns
+Trained model found: retraining the existing model with new data
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 124 rows and 6 columns
+Trained model found: retraining the existing model with new data
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 166 rows and 6 columns
+Trained model found: retraining the existing model with new data
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 176 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Training and validation for graphics card sales of model 'rtx3060'
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 178 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Training and validation for graphics card sales of model ''
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 179 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Training and validation for graphics card sales of model 'rtx3060'
+=== End of data collection ===
+     
+=== Start of training (2025-05-26 11:11) ===
+File with preprocessed sales data found with 180 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Training and validation for graphics card sales of model 'rtx3060'
+=== End of data collection ===
+     
+=== Start of training (2025-05-26 11:12) ===
+File with preprocessed sales data found with 181 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Training and validation for graphics card sales of model 'rtx3060'
+=== End of data collection ===
+     
+=== Start of training (2025-05-26 11:12) ===
+File with preprocessed sales data found with 181 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Training and validation for graphics card sales of model 'rtx3060'
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 183 rows and 6 columns
+Trained model found: retraining the existing model with new data
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 185 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}'
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 186 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+[0]	validation_0-rmse:5.11172	validation_1-rmse:5.58482
+[100]	validation_0-rmse:0.37666	validation_1-rmse:0.40340
+[200]	validation_0-rmse:0.04783	validation_1-rmse:0.04889
+[300]	validation_0-rmse:0.00666	validation_1-rmse:0.00671
+[400]	validation_0-rmse:0.00108	validation_1-rmse:0.00108
+[434]	validation_0-rmse:0.00105	validation_1-rmse:0.00109
+results
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 189 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+        
+    Convergence Results
+[0]	validation_0-rmse:5.14427	validation_1-rmse:5.40848
+[100]	validation_0-rmse:0.37816	validation_1-rmse:0.38044
+[200]	validation_0-rmse:0.04387	validation_1-rmse:0.04695
+[300]	validation_0-rmse:0.00608	validation_1-rmse:0.00654
+[400]	validation_0-rmse:0.00121	validation_1-rmse:0.00124
+[434]	validation_0-rmse:0.00121	validation_1-rmse:0.00124
+results
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 190 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+        
+    Convergence Results
+[0]	validation_0-rmse:5.12813	validation_1-rmse:5.42761
+[100]	validation_0-rmse:0.36599	validation_1-rmse:0.35707
+[200]	validation_0-rmse:0.05350	validation_1-rmse:0.05280
+[300]	validation_0-rmse:0.00767	validation_1-rmse:0.00775
+[400]	validation_0-rmse:0.00122	validation_1-rmse:0.00128
+[461]	validation_0-rmse:0.00121	validation_1-rmse:0.00126
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 191 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+        
+    Convergence Results
+[0]	validation_0-rmse:5.15786	validation_1-rmse:5.31282
+[100]	validation_0-rmse:0.40620	validation_1-rmse:0.41537
+[200]	validation_0-rmse:0.04841	validation_1-rmse:0.04677
+[300]	validation_0-rmse:0.00649	validation_1-rmse:0.00585
+[400]	validation_0-rmse:0.00111	validation_1-rmse:0.00103
+[434]	validation_0-rmse:0.00111	validation_1-rmse:0.00104
+
+
+MAE:
+RMSE:
+R^2:
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 196 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+        
+    Convergence Results
+[0]	validation_0-rmse:5.13402	validation_1-rmse:5.30063
+[100]	validation_0-rmse:0.50846	validation_1-rmse:0.48490
+[200]	validation_0-rmse:0.08306	validation_1-rmse:0.08103
+[300]	validation_0-rmse:0.01504	validation_1-rmse:0.01450
+[400]	validation_0-rmse:0.00287	validation_1-rmse:0.00290
+[499]	validation_0-rmse:0.00121	validation_1-rmse:0.00119
+
+
+MAE: 0.0009773442766461999
+RMSE: 0
+R^2: 0
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 197 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+        
+    Convergence Results
+
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 198 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+        
+    Convergence Results
+
+=== End of data collection ===
+     
+=== Start of training () ===
+File with preprocessed sales data found with 200 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+        
+    Convergence Results
+[0]	validation_0-rmse:5.09098	validation_1-rmse:5.33728
+[100]	validation_0-rmse:0.40191	validation_1-rmse:0.39823
+[200]	validation_0-rmse:0.05422	validation_1-rmse:0.05432
+[300]	validation_0-rmse:0.00705	validation_1-rmse:0.00727
+[400]	validation_0-rmse:0.00118	validation_1-rmse:0.00107
+[450]	validation_0-rmse:0.00116	validation_1-rmse:0.00104
+
+
+MAE: 0.0008559680922189727
+RMSE: 0.001040754282448506
+R^2: 0.9999999657874454
+=== End of data collection ===
+     
+=== Start of training (2025-05-26 11:32) ===
+File with preprocessed sales data found with 201 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+        
+    Convergence Results
+
+
+MAE: 0.0008837770554237067
+RMSE: 0.0010799288314371689
+R^2: 0.9999999622421277
+=== End of data collection ===
+     
+=== Start of training (2025-05-26 11:41) ===
+File with preprocessed sales data found with 210 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+      
+MAE: 0.0010321263107471168
+RMSE: 0.0012191384824170705
+R^2: 0.9999999517549168
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-26 13:25) ===
+File with preprocessed sales data found with 241 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+      
+MAE: 4.753238320350647
+RMSE: 5.817108926253064
+R^2: -0.0009821079343881323
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-26 13:25) ===
+File with preprocessed sales data found with 241 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+        
+MAE: 4.753238320350647
+RMSE: 5.817108926253064
+R^2: -0.0009821079343881323
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-26 13:26) ===
+File with preprocessed sales data found with 241 rows and 6 columns
+Trained model found: retraining the existing model with new data
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+        
+MAE: 4.753238320350647
+RMSE: 5.817108926253064
+R^2: -0.0009821079343881323
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-26 13:38) ===
+File with preprocessed sales data found with 241 rows and 6 columns
+No trained model found, training started on existing data
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-26 13:39) ===
+File with preprocessed sales data found with 241 rows and 6 columns
+No trained model found, training started on existing data
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+        
+MAE: 4.753238320350647
+RMSE: 5.817108926253064
+R^2: -0.0009821079343881323
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-26 13:40) ===
+Error: File with preprocessed sales data not found, training process aborted
+=== Start of training (2025-05-26 13:41) ===
+Error: File with preprocessed sales data not found, training process aborted
+=== Start of training (2025-05-26 13:46) ===
+Error: File with preprocessed sales data not found, training process aborted
+=== Start of training (2025-05-26 13:55) ===
+File with preprocessed sales data found with 248 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-26 13:56) ===
+File with preprocessed sales data found with 249 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-26 13:57) ===
+Error: File with preprocessed sales data not found, training process aborted
+=== Start of training (2025-05-26 13:57) ===
+File with preprocessed sales data found with 250 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+        
+MAE: 4.6696000671386715
+RMSE: 5.76281183407766
+R^2: -0.0023663280670276343
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 06:31) ===
+File with preprocessed sales data found with 266 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+        
+MAE: 4.5118257234681325
+RMSE: 5.47683129416424
+R^2: -0.00922130124671261
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 06:31) ===
+File with preprocessed sales data found with 266 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+        
+MAE: 4.5118257234681325
+RMSE: 5.47683129416424
+R^2: -0.00922130124671261
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 06:33) ===
+File with preprocessed sales data found with 268 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 06:35) ===
+File with preprocessed sales data found with 270 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 06:40) ===
+File with preprocessed sales data found with 275 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 06:41) ===
+File with preprocessed sales data found with 276 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+        
+MAE: 4.88473880074241
+RMSE: 5.796029387519214
+R^2: -7.59629527793404e-05
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:00) ===
+File with preprocessed sales data found with 280 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3090}':
+
+    Convergence Results
+        
+MAE: 4.881377560751779
+RMSE: 5.818935704299681
+R^2: -0.00023549287590540757
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:16) ===
+File with preprocessed sales data found with 281 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+        
+MAE: 4.814603158405849
+RMSE: 5.7637082899060035
+R^2: -0.0026849381669624695
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:25) ===
+File with preprocessed sales data found with 290 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:27) ===
+File with preprocessed sales data found with 292 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:28) ===
+File with preprocessed sales data found with 293 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:28) ===
+File with preprocessed sales data found with 293 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    ['None']
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:33) ===
+File with preprocessed sales data found with 298 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    ['None']
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:34) ===
+File with preprocessed sales data found with 299 rows and 5 columns
+Model trained and evaluated for graphics card model '{rtx3080}':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:36) ===
+File with preprocessed sales data found with 301 rows and 5 columns
+Model trained and evaluated for graphics card model '{}':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:37) ===
+File with preprocessed sales data found with 302 rows and 5 columns
+
+Model trained and evaluated for graphics card model '{}':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:38) ===
+File with preprocessed sales data found with 303 rows and 5 columns
+rtx3060
+Model trained and evaluated for graphics card model 'rtx3060':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:42) ===
+File with preprocessed sales data found with 307 rows and 5 columns
+
+Model trained and evaluated for graphics card model '':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:43) ===
+File with preprocessed sales data found with 308 rows and 5 columns
+rtx3080
+Model trained and evaluated for graphics card model 'rtx3080':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:43) ===
+File with preprocessed sales data found with 308 rows and 5 columns
+rtx3060
+Model trained and evaluated for graphics card model 'rtx3060':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:44) ===
+Graphics card to train on: rtx3060
+File with preprocessed sales data found with 309 rows and 5 columns
+rtx3060
+Model trained and evaluated for graphics card model 'rtx3060':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:47) ===
+Graphics card to train on: rtx3060
+=== Start of training (2025-05-27 07:47) ===
+Graphics card to train on: rtx3060
+=== Start of training (2025-05-27 07:48) ===
+Graphics card to train on: rtx3060
+=== Start of training (2025-05-27 07:49) ===
+Graphics card to train on: rtx3060
+File with preprocessed sales data found with 314 rows and 5 columns
+rtx3060
+Model trained and evaluated for graphics card model 'rtx3060':
+
+    Convergence Results
+    None
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:50) ===
+Graphics card to train on: rtx3060
+File with preprocessed sales data found with 315 rows and 5 columns
+rtx3060
+Model trained and evaluated for graphics card model 'rtx3060':
+
+    Convergence Results
+    rtx3090
+    
+MAE: 5.354875337509882
+RMSE: 6.08829487848294
+R^2: -0.0016356940298076772
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:57) ===
+Graphics card to train on: rtx3060
+File with preprocessed sales data found with 322 rows and 5 columns
+rtx3060
+Model trained and evaluated for graphics card model 'rtx3060':
+
+    Convergence Results
+        
+MAE: 4.763444900512695
+RMSE: 5.524977495303537
+R^2: -0.06683454143387557
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-27 07:57) ===
+Graphics card to train on: rtx3080
+File with preprocessed sales data found with 322 rows and 5 columns
+rtx3080
+Model trained and evaluated for graphics card model 'rtx3080':
+
+    Convergence Results
+        
+MAE: 4.480014532804489
+RMSE: 5.279491554675003
+R^2: -0.0042303454821013275
+=== End of model training and evaluation ===
+     
