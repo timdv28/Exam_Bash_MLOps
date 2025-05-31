@@ -587,3 +587,56 @@ RMSE: 5.239520443990668
 R^2: -0.008461919783532723
 === End of model training and evaluation ===
      
+=== Start of training (2025-05-31 09:17) ===
+Graphics card to train on: rtx3080
+Error: File with preprocessed sales data not found, training process aborted
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 09:18) ===
+Graphics card to train on: rtx3080
+Error: File with preprocessed sales data not found, training process aborted
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 09:18) ===
+Graphics card to train on: rtx3080
+Error: File with preprocessed sales data not found, training process aborted
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 09:27) ===
+Graphics card to train on: rtx3080
+Error: File with preprocessed sales data not found, training process aborted
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 09:34) ===
+Graphics card to train on: rtx3080
+Error: File with preprocessed sales data not found, training process aborted
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 09:34) ===
+Graphics card to train on: rtx3080
+Error: File with preprocessed sales data not found, training process aborted
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 09:35) ===
+Graphics card to train on: rtx3080
+Error: File with preprocessed sales data not found, training process aborted
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 09:38) ===
+Graphics card to train on: rtx3080
+Error: File with preprocessed sales data not found, training process aborted
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 09:42) ===
+Graphics card to train on: rtx3080
+File with preprocessed sales data found with 335 rows and 5 columns
+rtx3080
+Model trained and evaluated for graphics card model 'rtx3080':
+
+    Convergence Results
+        
+MAE: 4.494932060811057
+RMSE: 5.353822363718488
+R^2: -0.028537689905757224
+=== End of model training and evaluation ===
+     

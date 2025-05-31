@@ -2073,3 +2073,74 @@ File with sales data found with 1755 rows and 3 columns
 Data collection succesfull: Row with sales appended
 === End of data collection ===
      
+=== Start of collection (2025-05-31 09:05) ===
+File with sales data not found, process aborted
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:06) ===
+File with sales data not found, process aborted
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:08) ===
+File with sales data not found, process aborted
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:17) ===
+File with sales data found with 1760 rows and 3 columns
+New data file instance created from the previous file
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:18) ===
+File with sales data not found, creating new file from the first raw data pull
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:18) ===
+File with sales data not found, creating new file from the first raw data pull
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:18) ===
+File with sales data not found, creating new file from the first raw data pull
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:27) ===
+File with sales data found with 1760 rows and 3 columns
+New data file instance created from the previous file
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:34) ===
+File with sales data found with 1760 rows and 3 columns
+New data file instance created from the data in the previous file
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:34) ===
+File with sales data found with 1760 rows and 3 columns
+New data file instance created from the data in the previous file
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:35) ===
+File with sales data found with 1760 rows and 3 columns
+New data file instance created from the data in the previous file
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:38) ===
+File with sales data found with 1765 rows and 3 columns
+New data file instance created from the data in the previous file
+Previous data instance removed
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
+=== Start of collection (2025-05-31 09:42) ===
+File with sales data found with 1770 rows and 3 columns
+New data file instance created from the data in the previous file
+Previous data instance removed
+Data collection succesfull: Row with sales appended
+=== End of data collection ===
+     
