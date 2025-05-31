@@ -11,7 +11,7 @@ graphics_card=$1
 cards=("rtx3060" "rtx3070" "rtx3080" "rtx3090" "rx6700")
 
 # Log file
-log_file="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/logs/train.logs"
+log_file="logs/train.logs"
 echo "=== Start of training (${train_start}) ===" >> "$log_file"
 
 counter=0
@@ -31,9 +31,9 @@ then
     exit 1
 fi
 
-processed_data="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/processed/sales_processed_${YYYYMMDD_HHMM}.csv"
-model_path="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/model_${YYYYMMDD_HHMM}.pkl"
-training_script_path="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/src/train.py"
+processed_data="data/processed/sales_processed_${YYYYMMDD_HHMM}.csv"
+model_path="model/model_${YYYYMMDD_HHMM}.pkl"
+training_script_path="src/train.py"
 
 # Check for preprocessed data, and if it exists, display the number of rows and columns
 if [ -f "${processed_data}" ]

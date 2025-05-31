@@ -22,8 +22,8 @@ from datetime import datetime
 YYYYMMDD_HHMM = datetime.now().strftime("%Y%m%d_%H%M")
 
 # raw_data_path = f"~/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/raw/sales_data_{YYYYMMDD_HHMM}.csv"
-raw_data_path = f"~/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/raw/sales_data.csv"
-processed_data_path = f'~/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/processed/sales_processed_{YYYYMMDD_HHMM}.csv'
+raw_data_path = f"data/raw/sales_data.csv"
+processed_data_path = f'data/processed/sales_processed_{YYYYMMDD_HHMM}.csv'
 raw_data = pd.read_csv(raw_data_path)
 
 raw_data.dropna(subset=['sales'])

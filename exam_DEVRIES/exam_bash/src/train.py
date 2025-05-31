@@ -29,7 +29,7 @@ graphics_card= os.getenv('graphics_card')
 
 model_flag=False
 
-model_path = "/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/model/"
+model_path = "model/"
 
 # Create a few features based on the time
 def features(df):
@@ -56,7 +56,7 @@ def tt_split(df,graphics_card):
     return X_train, y_train, X_test, y_test
 
 # from sklearn.model_selection import train_test_split
-path_to_file = f"/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/processed/sales_processed_{YYYYMMDD_HHMM}.csv"
+path_to_file = f"data/processed/sales_processed_{YYYYMMDD_HHMM}.csv"
 
 # Get the time series file
 df = pd.read_csv(path_to_file)

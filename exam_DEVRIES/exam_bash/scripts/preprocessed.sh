@@ -2,11 +2,11 @@
 
 YYYYMMDD_HHMM=$(date -u +"%Y%m%d_%H%M")
 
-log_file="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/logs/preprocessed.logs"
+log_file="logs/preprocessed.logs"
 preproc_start=$(date -u +"%Y-%m-%d %H:%M")
-preproc_filepath="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/src/preprocessed.py"
-all_sales_files="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/processed/sales_processed_*.csv"
-sales_processed="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/processed/sales_processed_${YYYYMMDD_HHMM}.csv"
+preproc_filepath="src/preprocessed.py"
+all_sales_files="data/processed/sales_processed_*.csv"
+sales_processed="data/processed/sales_processed_${YYYYMMDD_HHMM}.csv"
 
 echo "=== Start of tests (${preproc_start}) ===" >> "$log_file"
 

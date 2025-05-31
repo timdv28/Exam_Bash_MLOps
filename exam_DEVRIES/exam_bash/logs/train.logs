@@ -564,3 +564,26 @@ RMSE: 5.279491554675003
 R^2: -0.0042303454821013275
 === End of model training and evaluation ===
      
+=== Start of training (2025-05-31 08:47) ===
+Graphics card to train on: rtx3080
+File with preprocessed sales data found with 331 rows and 5 columns
+rtx3080
+Model trained and evaluated for graphics card model 'rtx3080':
+
+    Convergence Results
+    
+=== End of model training and evaluation ===
+     
+=== Start of training (2025-05-31 08:48) ===
+Graphics card to train on: rtx3080
+File with preprocessed sales data found with 332 rows and 5 columns
+rtx3080
+Model trained and evaluated for graphics card model 'rtx3080':
+
+    Convergence Results
+        
+MAE: 4.389496456493031
+RMSE: 5.239520443990668
+R^2: -0.008461919783532723
+=== End of model training and evaluation ===
+     

@@ -4,15 +4,16 @@ coll_start=$(date -u +"%Y-%m-%d %H:%M")
 YYYYMMDD_HHMM=$(date -u +"%Y%m%d_%H%M")
 timestamp=$(date -u +"%Y-%m-%d %H:%M")
 
+echo $(pwd)
+
 # Start of writing the logfile
-log_file="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/logs/collect.logs"
+log_file="logs/collect.logs"
 echo "=== Start of collection (${coll_start}) ===" >> "$log_file"
 
 # Two data files: now_data prints out the current data pull. The collected data is appended to sales_data
-now_data="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/raw/sales_${YYYYMMDD_HHMM}.csv"
-sales_data="/home/ubuntu/exam_DEVRIES/exam_bash/exam_Bash_MLOps/data/raw/sales_data.csv"
+now_data="data/raw/sales_${YYYYMMDD_HHMM}.csv"
+sales_data="data/raw/sales_data.csv"
 models=("rtx3060" "rtx3070" "rtx3080" "rtx3090" "rx6700")
-
 
 if [ -f "${sales_data}" ]
 then
